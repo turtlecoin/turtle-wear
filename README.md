@@ -6,7 +6,7 @@
 TrtlWear is a watchface that tells you all the important things you need, like the time, date, weather,
 battery, and how much TRTL is trading for.
 
-![alt text](https://raw.githubusercontent.com/Seperot/turtle-wear/master/watchfacedemo.png)
+![alt text](https://raw.githubusercontent.com/turtlecoin/turtle-wear/master/watchfacedemo.png)
 
 ## Download
 
